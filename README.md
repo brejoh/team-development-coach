@@ -4,7 +4,7 @@ A folder-based AI coach for new supervisors building a team after an organisatio
 
 ## What this coach does
 
-This coach will give you the space to think through your topic. It will ask you questions, push back, and provoke. The coach will help you narrow a broad problem down to something you can actually act on today.
+This coach will give you the space to think through your topic. It will ask you questions, push back, and provoke, in order to help you narrow a broad problem down to something you can actually act on today.
 
 It is not designed to be a knowledge base, a mentor, or a teacher.
 
